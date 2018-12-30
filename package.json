@@ -3,10 +3,12 @@
   "version": "0.0.1",
   "description": "This is a React package to visualize your input suggestions items and selecting the items. This is built with Bootstrap 4.",
   "main": "build/index.js",
+  "homepage": "https://github.com/bonnopc/react-bootstrap-input-dropdown",
   "peerDependencies": {
     "react": "^15.5.4"
   },
   "dependencies": {
+    "bootstrap": "^4.2.1",
     "react": "^15.5.4",
     "webpack": "^2.6.1"
   },
